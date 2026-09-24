@@ -13,7 +13,7 @@ Product Engineering · Backend Architecture · AI Systems · Developer Tooling
 
 ### Stack
 
-Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Redis · Docker · AWS · Azure
+AI Agents · Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Redis · Docker · AWS · Azure
 
 ### Principles
 

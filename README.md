@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hemant Kumar
 
-<!--
-**HemantAHK/HemantAHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on product engineering, backend systems, and AI.
 
-Here are some ideas to get you started:
+I build end-to-end software, from system design and APIs to interfaces, infrastructure, and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring AI-native software, agent systems, and developer tooling.
+Most things I build are kept quiet until they're worth showing.
+
+### Focus
+
+Product Engineering · Backend Architecture · AI Systems · Developer Tooling
+
+### Stack
+
+Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Redis · Docker · AWS · Azure
+
+### Principles
+
+Simple systems.  
+Fast feedback loops.  
+Useful software over impressive demos.
+
+### Elsewhere
+
+[Website](https://heamantahk.in) · [X](https://x.com/HemantAHK)
